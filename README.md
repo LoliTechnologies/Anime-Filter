@@ -1,6 +1,6 @@
-Trump Filter
+Anime Filter
 ================================
-A Chrome extension that removes Donald Trump from the Internet.
+A Chrome extension that removes Anime from the Internet.
 
 
 Overview
