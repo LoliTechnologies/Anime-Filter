@@ -11,7 +11,7 @@ Tired of seeing anime on the internet? This extension was created just for you!
 Features
 --------------------------
 
-* Detects instances of Anime on web pages, warning users of the horror they may contain.
+* Detects instances of Anime on web pages, warning users of the horrors they may contain.
 * Attempts to identify semantically sections of the page likely to contain Anime and removes them from the page.
 * Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
 
