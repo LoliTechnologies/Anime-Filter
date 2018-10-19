@@ -23,7 +23,7 @@ function onMessage(request, sender, sendResponse) {
       filter: 'mild'
     }, function(items) {
       console.log("Filtering on " + items.filter + " setting.");
-      ga('send', 'event', 'Filter', 'Trump', items.filter);
+      ga('send', 'event', 'Filter', 'Anime', items.filter);
     });
     sendResponse({});
   }
