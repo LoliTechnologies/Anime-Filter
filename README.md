@@ -23,6 +23,6 @@ Installation
 --------------------------
 
 Just install the extension from [the Chrome Web
-Store](https://chrome.google.com/webstore/detail/lhondapiaknegjpellpodegmeonigjic)!
+Store]()!
 
 Then surf the web, comforted by the protection you are now afforded.
