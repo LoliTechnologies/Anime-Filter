@@ -55,7 +55,7 @@ if (search) {
 	   elements = getElements(items.filter);
 	   filterElements(elements);
 	   chrome.runtime.sendMessage({method: "saveStats", trumps: elements.length}, function(response) {
-			  console.log("Logging " + elements.length + " trumps.");
+			  console.log("Logging " + elements.length + " animes.");
 		 });
 	 });
   chrome.runtime.sendMessage({}, function(response) {});
