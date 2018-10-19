@@ -1,7 +1,7 @@
 function onMessage(request, sender, sendResponse) {
   if (request.method == "saveStats") { 
     console.log("Storing stats...");
-    console.log ("Adding " + request.trumps + " Trumps to stats.");
+    console.log ("Adding " + request.trumps + " Animes to stats.");
     chrome.storage.sync.get({
       trumps: 0,
       pages: 0
