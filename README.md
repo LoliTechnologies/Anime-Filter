@@ -1,6 +1,8 @@
 Anime Filter
 ================================
-[](logo.png)
+
+![](logo.png)
+
 A Chrome extension that removes Anime from the Internet.
 
 
